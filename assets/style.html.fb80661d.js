@@ -1,0 +1,1 @@
+const e={key:"v-631a9d9d",path:"/plugin/coze/style.html",title:"Coze\u6837\u5F0F",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"css\u53D8\u91CF",slug:"css\u53D8\u91CF",children:[]}],git:{updatedTime:1641282046e3,contributors:[{name:"mususu",email:"mususu.vip@foxmail.com",commits:1}]},filePathRelative:"plugin/coze/style.md"};export{e as data};
